@@ -1,5 +1,5 @@
 # Frontend-Project
-A responsive personal portfolio website built with H.T.M.L, CSS, AND JavaScript.
+A responsive <h2>Food Ordering</h2> website built with H.T.M.L, CSS, AND JavaScript.
 <h1 align="center">Hi 👋, I'm Shilpa</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
