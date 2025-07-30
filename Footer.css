@@ -1,0 +1,242 @@
+#nine{
+    background-color: #0a0a09;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 99vw;
+    height: 900px;
+}
+#niv{
+    display: inline-block;
+    padding-right: 120px;
+    font-size: x-large;
+    color: white;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: x-large;
+}
+#tan{
+    display: inline-block;
+    padding-right: 100px;
+    font-size: x-large;
+    color: white;
+    text-align: left;
+    font-size: x-large;
+}
+#nan{
+    display: inline-block;
+    padding-right: 100px;
+    font-size: x-large;
+    color: white;
+    text-align: left;
+}
+#nbn{
+    display: inline-block;
+    color: white;
+    text-align: left;
+    font-size: x-large;
+}
+#feed{
+    display: inline-flex;
+    padding-left: 60px; 
+    /* margin-left: 770px; */
+    height: 300px;
+    width: 400px;
+    margin-top: -290px;
+    /* border: 2px  solid white; */
+}
+#map{
+    display: inline-flex;
+    padding-left: 60px; 
+    margin-left: 550px;
+    height: 300px;
+    width: 400px;
+    margin-top: -100px;
+    /* border: 2px  solid white; */
+}
+
+footer{
+    background-color: black;
+    display: inline-flex;
+    width: 99vw;
+    color: white;
+    height: 40px;
+}
+
+#lvel{
+    font-size: 25px;
+    color: white;
+    /* padding-top: 10px; */
+    padding-left: 700px;
+   
+}
+#me{
+    color: #a00e43;
+    margin-left: 10px;
+    font-size: large;
+}
+
+#puf{
+    font-size: 20px;
+    padding-top: 8px;
+    margin-left: 800px;
+    width: 160px;
+    height: 40px;
+    /* background-color: white; */
+    border: 2px  solid white;
+    padding: 5px;
+}
+
+#eleven11{
+    width: 99vw;
+    height: 1200px;
+    background-color: rgb(68, 36, 36);
+
+}
+
+#fcuk {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    color: white;
+}
+#comment{
+    width: 98vw;
+    height: 250px;
+    display: block;
+    margin-left: 2px;
+    
+}
+
+#commentBox{
+    width: 90vw;
+    height: 120px;
+    padding: 10px;
+    font-size: large;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    resize: vertical;
+    margin-left: 50px;
+}
+
+#button {
+    width: 200px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 50px;
+    background-color: #ff6347;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#button:hover {
+    background-color: #22980d;
+    color: white;
+}
+#stay{
+    color: white;
+    margin-left: 20px;
+    
+}
+#cmmt1{
+    width: 47vw;
+    height: 135px;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    font-size: xx-small;
+    display: inline-flex;
+    padding-top: 20px;
+    /* border: 5px solid green; */
+}
+
+#cmmt1>h2
+{
+    font-size: 20px;
+}
+
+#cmmt2{
+    width: 47vw;
+    height: 160px;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    display: inline-flex;
+    padding-top: 20px;
+    font-size: 20px;
+     /* border: 5px solid green; */
+}
+#cmmt2>h2
+{
+    font-size: 20px;
+}
+#cmmt3{
+    width: 95vw;
+    height: 110px;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    display: inline-flex;
+    padding-top: 20px;
+    font-size: small;
+      /* border: 5px solid green; */
+
+}
+#cmmt3>h2
+{
+    font-size: 20px;
+}
+#cmmt4{
+    width: 95vw;
+    height: 110px;
+    margin-left: 20px;
+    background-color: white;
+    color: black;
+    border-radius: 12px;
+    display: inline-flex;
+    padding-top: 20px;
+    font-size: small;
+    /* border: 5px solid green; */
+
+}
+#cmmt4>h2
+{
+    font-size: 20px;
+}
+
+
+#kul{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#undal{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 10px;
+}
+#ndal{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#dal{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    padding: 10px;
+}
+#lvel{
+      padding-left: 500px;
+      font-size: large;
+}

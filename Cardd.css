@@ -1,0 +1,90 @@
+#package{
+    /* background-image: url(./assets/pixs.webp); */
+    height: max-content;
+    border: 5px solid rgb(24, 22, 22);
+
+}
+#img{
+  width: 16vw;
+   height: 250px;
+   margin-top: -1px;
+   border-radius: 20px;
+   margin-left: -1px;
+}
+
+.card{
+    width: 16vw;
+    height: 55vh;
+    margin-left: 20px;
+    /* margin-top: 90px; */
+    /* border: 5px solid red; */
+    border-radius: 20px;
+    
+}
+.card-title{
+    /* margin-left: 75px; */
+    text-align: center;
+     /* border: 2px solid red; */
+}
+.card-cost{
+      text-align: center;
+     /* border: 2px solid red; */
+}
+#cartt{
+    margin-left: 12px;
+    /* border: 5px solid gray; */
+}
+#suraj{
+    margin-bottom: 10px;
+    margin-left: 90px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    /* border: 2px solid red; */
+}
+#suraj1{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    /* border: 2px solid red; */
+}
+.card1{
+   width: 250px;
+   /* height: 18%; */
+   border-radius: 20px;
+   background-color: #ddd;
+   margin-left: 45px;
+   box-shadow: 2px 2px 10px white;
+  display: inline-block;
+  margin-top: 30px;
+}
+@keyframes fill {
+    0% {
+      transform: translateX(-5%);
+    }
+  }
+.card:hover{
+    background: linear-gradient(to right,   rgb(237, 74, 74), #f4f4f1,  rgb(228, 72, 72));
+     color: black;
+     transition: .3s;
+     
+}
+#suraj:hover{
+ background-color: red;
+ color:white;
+}
+#suraj1:hover{
+    background-color: rgb(6, 111, 6);
+    color: white;
+}
+#Ad{
+     /* border: 2px solid red; */
+     margin-left: 80px;
+     background-color: rgba(232, 115, 19, 0.797);
+     color: black;
+    
+}
+
+
