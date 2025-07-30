@@ -1,7 +1,7 @@
 # Frontend-Project
-<h2>A responsive Food Ordering website built with H.T.M.L, CSS, AND JavaScript. </h2>
+**A responsive Food Ordering website built with H.T.M.L, CSS, AND JavaScript.**
 <h1 align="center">Hi 👋, I'm Shilpa</h1>
-<h5 align="center">A passionate frontend developer </h5>
+<h2 align="center">A passionate Frontend Developer </h2>
 
 - 🌱 I’m currently learning **React Native , TypeScript**
 
