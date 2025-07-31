@@ -1,7 +1,7 @@
 # Frontend-Project
 **A responsive Food Ordering website built with H.T.M.L, CSS, AND JavaScript**
 <br><br>
-<img width="800" height="600" alt="image" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" />
+<img width="800" height="600" alt="image" src="https://cdn.dribbble.com/users/1197989/screenshots/5585685/media/139eef797b4034c31cd8189a717c2022.gif" />
 <h1 align="center">Hi 👋, I'm Shilpa</h1>
 <h2 align="center">A passionate Frontend Developer </h2>
 
