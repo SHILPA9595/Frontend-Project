@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Shilpa</h1>
 <h2 align="center">A passionate Frontend Developer </h2>
 
-- 🌱 I’m currently learning **React Native , TypeScript**
+- 🌱 I’m currently learning **Upon my Skills**
 
 - 👯 I’m looking Job **In Frontend Development**
 
